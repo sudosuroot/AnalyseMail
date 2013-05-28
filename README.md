@@ -1,6 +1,6 @@
 AnalyseMail
-email ID lookup API and email sentiment analysis
 ===========
+email ID lookup API and email sentiment analysis
 
 1) Get social profile from any mail ID. Currently gets from gravatar (fb, twitter, linkedin), Cruchbase, Klout. 
 
